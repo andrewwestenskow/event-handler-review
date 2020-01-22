@@ -1,17 +1,22 @@
-.fun-dip {
+#fun-dip {
   width: 100px;
   height: 100px;
-}
-
-.blue {
   background: aqua;
 }
 
-.green {
-  background: #bada55;
+.snickers {
+  width: 300px;
+  height: 100px;
+  background: chocolate;
+  color: white;
+  font-size: 1.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.class-4 {
-  height: 500px;
-  width: 500px;
+.open {
+  width: 600px;
+  height: 200px;
+  font-size: 1.6rem;
 }
